@@ -1,4 +1,4 @@
-# 🍱 Proyecto 1: Segmentación :champagne:
+# 🍱 Proyecto 1: Segmentación :couple:
 
 La segmentación ha demostrado ser una estrategia fundamental en nuestro análisis de datos, permitiéndonos desglosar el conjunto de registros de compras de clientes de "El Mercado" de manera efectiva. Hemos logrado dividir la base de clientes en grupos más pequeños y homogéneos, considerando características como comportamiento de compra, intereses, preferencias e historial de interacciones. Esta aproximación ha proporcionado una comprensión más profunda de nuestros clientes.
 
@@ -14,6 +14,6 @@ La integración de Hojas de cálculo de Google, la presentación en Google Slide
 
 ## Este proyecto no solo ha fortalecido habilidades en el análisis de datos, sino que también ha proporcionado una visión práctica de cómo abordar desafíos específicos en el ámbito empresarial a través de la segmentación inteligente y estratégica.
 
-# :chart_with_upwards_trend: Panel  <a href="#dashboard" id="dashboard"></a>
+# :woman_technologist: Panel  <a href="#dashboard" id="dashboard"></a>
 
 <figure><img src=".gitbook/assets/Dashboard Proyecto 1 Segmentación.png" alt=""><figcaption></figcaption></figure>
