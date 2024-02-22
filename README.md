@@ -11,7 +11,7 @@ El análisis de datos realizado para "El Mercado" ha sido un hito significativo.
 
 Además de dominar el análisis de datos en este proyecto, se ha adquirido un conocimiento sobre la técnica de segmentación. Durante el proceso, identificamos patrones comunes y diferencias entre nuestros clientes.
 
-## Herramientas - Idiomas - Plataformas&#x20;
+# Herramientas - Idiomas - Plataformas :desktop_computer: 
 
 En cuanto a las herramientas utilizadas, las fórmulas de Google Sheets se revelaron como recursos poderosos y eficientes para llevar a cabo el análisis de datos.
 
@@ -19,6 +19,6 @@ La integración de Hojas de cálculo de Google, la presentación en Google Slide
 
 ### Este proyecto no solo ha fortalecido habilidades en el análisis de datos, sino que también ha proporcionado una visión práctica de cómo abordar desafíos específicos en el ámbito empresarial a través de la segmentación inteligente y estratégica.
 
-## :woman\_technologist: Panel <a href="#dashboard" id="dashboard"></a>
+# :woman\_technologist: Panel <a href="#dashboard" id="dashboard"></a>
 
 <figure><img src=".gitbook/assets/Dashboard Proyecto 1 Segmentación.png" alt=""><figcaption></figcaption></figure>
